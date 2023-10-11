@@ -96,15 +96,15 @@ section {
   background-size: cover;
   background-position: center;
   position: relative;
-  width: 200%;
-  left: -50%;
+  width: 300%;
+  left: -100%;
 }
 
 .gold {
   position: relative;
   background-color: var(--gold);
-  width: 200%;
-  left: -50%;
+  width: 300%;
+  left: -100%;
 }
 
 .gold>* {
